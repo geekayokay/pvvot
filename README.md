@@ -9,4 +9,4 @@ A dynamic stock analysis tool with real-time data and scripting capabilities.
 - Advanced scripting for stock analysis
 
 ## Development
-This project uses Django for backend and React for frontend.
+This project uses Django for backend and React for frontend.## Test
